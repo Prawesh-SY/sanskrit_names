@@ -1,0 +1,368 @@
+/* This is the list of possible names of the children that needs to be updated in the 
+sanskrit_names.dart file in the library of the package:sanskrit_names/sanskrit_names.dart
+
+BOYS NAME
+
+Jagdish: Lord of the universe
+
+Karunesh: Lord of Mercy
+
+Darshan: Philosophy
+
+Ashmik: boy made of stone
+
+Mitansh: Male friend
+
+AtmaGaurav: Proud
+
+Nandish: Lord Shiva
+
+Sashwat: Eternal
+
+Savar:  Lord Shiva
+
+Ksayana:Tranquil water
+
+Mimansa: Eager one
+
+Trinabh:Lord Vishnu
+
+Grantham: Easily accessible
+
+Divyam: Divine
+
+Niskarsh: Outcome of work
+
+Mukund: Lord Vishnu (freedom giver, precious stone)
+
+Savar: Lord Shiva
+
+Amol: Faithful, king
+
+Diyan: Judge, leader, captain
+
+Ranav: King
+
+Ekam: Unity
+
+Yuvan: Young king, heir apparent
+
+Ekaveer: A unique hero
+
+Ajai: Invincible, no defeat
+
+Ranajay: Victorious
+
+Ahar: Defender
+
+Ekaksh: One eyed Shiva
+
+Hrishikesh: God Vishnu
+
+Jaksh:God of wealth
+
+Tarush: Conqueror
+
+Tavasya: Strength
+
+Kevalya: Aloneness
+
+Jivanshu: Part of life
+
+Gautam (name of Buddha)
+
+Hansin (universal soul)
+
+Malin: Little warrior, strong
+
+Nirbhay: Fearless
+
+Jayesh (victor)
+
+Kavin (handsome)
+
+Pradyut: Shining, illuminated
+
+Pragyan: Wisdom, supreme intelligence
+
+Ahi: Water, sun, cloud, fawn
+
+Abhra: Cloud
+
+Abjit: Conquering water
+
+Ansu: Sun, ray of light
+
+Bater: Gray quail
+
+Baru: Brave
+
+Kriya: Lord venkateswara
+
+Krit: Artist
+
+Nabhij: Lord Brahma
+
+Casa: Blue Jay
+
+Druhyu: One who loves nature
+
+Harit: Green fragrant plant
+
+Hirav: Greenery
+
+Namah: Bowing in Sanskrit
+
+Kaushtubh: Legendary gem
+
+Kshiraj: Moon
+
+Mrig: Rain or deer
+
+Nirvan: Liberated
+
+Neer: Crystal clear water
+
+Nivam: Deep rooted
+
+Parikshit: Son of Abhimanyu
+
+Prabal:Powerful
+
+Mrinal: Lotus
+
+Pujit: Worshipped
+
+Gagan: Sky, the heavens
+
+Nakin: Dwells in heaven
+
+Reyaansh (part of Lord Vishnu)
+
+Ranav (king)
+
+Pradhyuma: Son of Krishna
+
+Pranshu: Tall
+
+Prithvik: God Vishnu
+
+Sarvin (God of love)
+
+Druhyu: One who loves nature
+
+Mukul (bud)
+
+Nandan (friend)
+
+Ahim (cloud)
+
+Ahar: Activity
+
+Praveka: Activity
+
+Punj: A group
+
+Rigved: A veda in sanskrit
+
+Sarth: Thinking
+
+Udvah: Continuous
+
+Varnit: Explained
+
+Ved: Holy Hindu book
+
+Vihank: Bird in sky
+
+Sharvil: God Krishna
+
+Sakal: Entire
+
+
+GIRLS NAME
+Aamani: Wish
+
+Haimantika: Growing in the winter
+
+Aalaya: Home and refuge
+
+Aamodini :Fragrant
+
+Aanadhitha : Happy one
+
+Aanamra: Modest
+
+Aanandana: Happiness
+
+Aanandatha: Happy
+
+Baruna :Wife of the Lord of the Sea
+
+Saanjali :Hand clasped in prayer
+
+Sadaa: Always
+
+Geetika: Very tiny melodious song.
+
+Ragavinodini: Name of a Raga
+
+Rachany :Night
+
+Rabani: Divine
+
+Raadhi :Achievement Perfection Success
+
+Paritushti: Contentment
+
+Eravati: Daughter of the ocean
+
+Parineetha : Expert
+
+Pankajakshi : Lotus eyed
+
+Padmasundari :Beautiful like the lotus
+
+Paayal :Anklet
+
+Nalika: Lotus
+
+Naimisha: Transient
+
+Maandhari: Honourable
+
+Gavya: God of garden
+
+Vyapti: Achievement Omnipresence Permeation
+
+Vivita: Beautiful
+
+Chetaki: A name of a raga; jasmine flower
+
+Maalavi Princess: A musical Raaga
+
+Lashika :Goddess Lakshmi
+
+Madhubala :Sweet girl
+
+Maanavika :Young girl
+
+Lakshetha :Distinguished
+
+Labonya :Brilliant Beautiful
+
+Lajvathi :Shy
+
+Lajjana: Modesty
+
+Lajjaka :Modesty
+
+Kaamita :Desired
+
+Kaamana :Desire
+
+Kaamada: Generous
+
+Jaimuni :Name of the sage
+
+Bodhi: Enlightened
+
+Chitrangada: Arjun’s beautiful wife
+
+Naagadhavani: Name of a Raga
+
+Haimanthika: Growing in the winter
+
+Vishupadi: River ganga
+
+Virochana: Brilliant
+
+Vipula: Abundant
+
+Vipanchika: Lute
+
+Vinyasa: Yoga posture
+
+Tushita: Happiness
+
+Trinetra: Goddess Durga
+
+Triguna: Goddess Durga
+
+Swara: Goddess Saraswati
+
+Sakshi: Witness
+
+Sanjana: In Harmony
+
+Saroj: Lotus
+
+Saraj: Simple
+
+Vaijantimala: Lord Vishnu
+
+Vaijanti: Flower
+
+Brihatjyoti: Agniras
+
+Nadatarangini:Raga
+
+Nadranjini: Raga
+
+Naganandini: Born in mountain
+
+Dadhichi: A sage
+
+Daksha: Earth
+
+Dakshaja: Daughter
+
+Dakshayani: Goddess Durga
+
+Dakshata: Care
+
+Gayakapriya: A Raga
+
+Geethanjali: Tagore’s poem collection
+
+Geethashree: Bhagvad Geetha
+
+Hamsabhrami:  Name of a Raga
+
+Hamsadeepika: Name of  a  Raga
+
+Hamsadhvani:Raga
+
+Hamsanandini: Extreme happiness
+
+Hamsini: Who rides swan
+
+Hansa: Swan
+
+Kaama: Desire
+
+Kaamada: Being generous
+
+Kaamana: Wish
+
+Kaamika: One who is desired
+
+Kaamita:Loveable
+
+Kaamini: Beautiful
+
+Kamma: Loveable
+
+Klakaanti: Raga
+
+Kalanidhi: Treasure
+
+Kalapi: Peacock
+
+Kalapini: Night
+
+Namanarayani: A Raga
+
+Namatha: Cloud
+
+Namitha: Humble
