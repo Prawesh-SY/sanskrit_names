@@ -2,8 +2,6 @@
 name: sanskrit_names
 description: "A new Flutter package containing a list of Sanskrit names for children."
 version: 0.0.2
-homepage:
-
 homepage: https://github.com/Prawesh-SY/sanskrit_names
 
 environment:
